@@ -44,3 +44,19 @@ OnGoing Projects
 
 [mits]: https://github.com/guesslin/mits/
 [mh4gquest]: https://github.com/guesslin/mh4gquest/
+
+Writeups
+--------
+
+* [leetcode][]
+* [overthewire-bandit][]
+
+[leetcode]: https://github.com/guesslin/leetcode
+[overthewire-bandit]: https://github.com/guesslin/overthewire_bandit
+
+Projects
+--------
+
+* [Formosa-BBS][]
+
+[Formosa-BBS]: https://github.com/guesslin/formosa
