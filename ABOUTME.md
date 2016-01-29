@@ -1,17 +1,18 @@
 Guesslin(Lin, Yu-han)
 =====================
 
-* Programmer of GOLANG and PYTHON
+* Programmer of GOLANG ,PYTHON and C/C++
 * Intrestering in writing some stuff to change my life
-* Monster Hunter: p2g, p3, MH4, MH4G
+* Monster Hunter: p2g, p3, MH4, MH4G, MHX
+
 
 Skill
 =====
 
-* Programming for fun
-* Secutiry
-* System manage
-* Arduino Quad-Copter
+* Programming
+* Linux System manage
+* Arduino
+* Security
 
 Programming Language
 --------------------
@@ -31,7 +32,17 @@ System manage
 Arduino
 -------
 
-* ArduPlane CW and CCW turn
+* ArduPlane CW and CCW turn [ArduPlane_turns][]
+
+[ArduPlane_turns]: https://github.com/guesslin/ardupilot_turns
+
+Security
+--------
+
+* [overthewire_bandit][]
+
+[overthewire_bandit]: https://github.com/guesslin/overthewire_bandit
+
 
 Projects
 ========
@@ -41,22 +52,37 @@ OnGoing Projects
 
 * [mits][]
 * [mh4gquest][]
+* [chartit][mychartit]
+* [leetcode][]
+* [Formosa-BBS][]
 
 [mits]: https://github.com/guesslin/mits/
 [mh4gquest]: https://github.com/guesslin/mh4gquest/
-
-Writeups
---------
-
-* [leetcode][]
-* [overthewire-bandit][]
-
+[mychartit]: https://github.com/guesslin/chartit
 [leetcode]: https://github.com/guesslin/leetcode
-[overthewire-bandit]: https://github.com/guesslin/overthewire_bandit
-
-Projects
---------
-
-* [Formosa-BBS][]
-
 [Formosa-BBS]: https://github.com/guesslin/formosa
+
+Gopher Gala 2016
+----------------
+
+* [Chartit][]
+
+[Chartit]: https://github.com/gophergala2016/chartit
+
+
+Talks in Community
+==================
+
+1. [MLDM][]
+2. [Introduce Golang in NUKIM][IntroGo]
+
+[MLDM]: http://go-talks.appspot.com/github.com/guesslin/talks/2015/mldm0720/mldm0720.slide#1
+[IntroGo]: https://github.com/guesslin/talks
+
+
+Articles
+========
+
+* [golang-package-tips][]
+
+[golang-package-tips]: https://github.com/guesslin/package-tips
