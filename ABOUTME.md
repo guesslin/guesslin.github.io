@@ -77,7 +77,7 @@ Talks in Community
 2. [Introduce Golang in NUKIM][IntroGo]
 
 [MLDM]: http://go-talks.appspot.com/github.com/guesslin/talks/2015/mldm0720/mldm0720.slide#1
-[IntroGo]: https://github.com/guesslin/talks
+[IntroGo]: https://github.com/guesslin/talks/blob/master/2015/nukim0430/intro.slide
 
 
 Articles
