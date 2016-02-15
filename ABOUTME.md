@@ -40,8 +40,10 @@ Security
 --------
 
 * [overthewire_bandit][]
+* [IR_Tool][]
 
 [overthewire_bandit]: https://github.com/guesslin/overthewire_bandit
+[IR_Tool]: https://github.com/guesslin/IR_Tool
 
 
 Projects
