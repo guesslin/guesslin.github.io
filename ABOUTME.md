@@ -50,8 +50,8 @@ Security
 Projects
 ========
 
-OnGoing Projects
-----------------
+On Going Projects
+-----------------
 
 * [mits][]
 * [mh4gquest][]
@@ -59,13 +59,15 @@ OnGoing Projects
 * [leetcode][]
 * [Formosa-BBS][]
 * [BF Interpreter][bf]
+* [CECDataSet][cecd]
 
-[mits]: https://github.com/guesslin/mits/
-[mh4gquest]: https://github.com/guesslin/mh4gquest/
+[mits]: https://github.com/guesslin/mits
+[mh4gquest]: https://github.com/guesslin/mh4gquest
 [mychartit]: https://github.com/guesslin/chartit
 [leetcode]: https://github.com/guesslin/leetcode
 [Formosa-BBS]: https://github.com/guesslin/formosa
 [bf]: https://github.com/guesslin/bf
+[cecd]: https://github.com/MISNUK/CECDataSet
 
 Gopher Gala 2016
 ----------------
@@ -81,7 +83,7 @@ Talks in Community
 1. [MLDM][]
 2. [Introduce Golang in NUKIM][IntroGo]
 
-[MLDM]: http://go-talks.appspot.com/github.com/guesslin/talks/2015/mldm0720/mldm0720.slide#1
+[MLDM]: http://go-talks.appspot.com/github.com/guesslin/talks/2015/mldm0720/mldm0720.slide
 [IntroGo]: https://github.com/guesslin/talks/blob/master/2015/nukim0430/intro.slide
 
 
